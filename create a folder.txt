@@ -1,0 +1,10 @@
+create a folder
+create an html file
+    look at the raw text
+    what you are supposed to accomplish
+create a git repository
+link the local folder to my git repo
+
+list items
+    particular order
+        roman
